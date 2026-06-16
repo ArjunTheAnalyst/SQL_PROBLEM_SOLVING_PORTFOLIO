@@ -41,21 +41,15 @@ Let:
 
 Formula:
 
-\[
-\text{Speed} = \frac{\text{Distance}}{\text{Time}}
-\]
+Speed = Distance / Time
 
 Downstream:
 
-\[
-\frac{40}{4} = 10 \text{ km/h}
-\]
+40 / 4 = 10 km/h
 
 Since downstream speed equals boat speed plus current speed:
 
-\[
 B + C = 10
-\]
 
 ---
 
@@ -63,15 +57,11 @@ B + C = 10
 
 Upstream:
 
-\[
-\frac{20}{5} = 4 \text{ km/h}
-\]
+20 / 5 = 4 km/h
 
 Since upstream speed equals boat speed minus current speed:
 
-\[
 B - C = 4
-\]
 
 ---
 
@@ -79,31 +69,19 @@ B - C = 4
 
 We now have:
 
-\[
 B + C = 10
-\]
 
-\[
 B - C = 4
-\]
 
 Adding both equations:
 
-\[
 (B + C) + (B - C) = 10 + 4
-\]
 
-\[
 2B = 14
-\]
 
-\[
-B = \frac{14}{2}
-\]
+B = 14 / 2
 
-\[
 B = 7
-\]
 
 ---
 
@@ -127,21 +105,13 @@ B = 7
 
 ### Downstream Speed
 
-\[
-\text{Boat Speed} + \text{Current Speed}
-\]
+Boat Speed + Current Speed
 
 ### Upstream Speed
 
-\[
-\text{Boat Speed} - \text{Current Speed}
-\]
+Boat Speed - Current Speed
 
-### Speed
-
-\[
-\text{Distance} \div \text{Time}
-\]
+#### Speed = Distance / Time
 
 ---
 

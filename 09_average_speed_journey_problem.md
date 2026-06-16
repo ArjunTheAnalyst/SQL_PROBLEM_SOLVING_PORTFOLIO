@@ -62,7 +62,7 @@ Time = Distance / Speed
 
 Formula:
 
-Average Speed} = Total Distance / Total Time = 120 / 3
+Average Speed = Total Distance / Total Time = 120 / 3
 
 = 40 km/h
 

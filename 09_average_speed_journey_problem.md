@@ -34,37 +34,27 @@ Determine her average speed for the entire journey.
 
 Formula:
 
-\[
-\text{Time} = \frac{\text{Distance}}{\text{Speed}}
-\]
+Time = Distance / Speed
 
 #### First 60 km
 
-\[
-\frac{60}{30} = 2 \text{ hours}
-\]
+60 / 30 = 2 hours
 
 #### Next 60 km
 
-\[
-\frac{60}{60} = 1 \text{ hour}
-\]
+60 / 60 = 1 hour
 
 ---
 
 ### Step 2: Calculate Total Time
 
-\[
-2 + 1 = 3 \text{ hours}
-\]
+2 + 1 = 3 hours
 
 ---
 
 ### Step 3: Calculate Total Distance
 
-\[
-60 + 60 = 120 \text{ km}
-\]
+60 + 60 = 120 km
 
 ---
 
@@ -72,19 +62,9 @@ Formula:
 
 Formula:
 
-\[
-\text{Average Speed} =
-\frac{\text{Total Distance}}{\text{Total Time}}
-\]
+Average Speed} = Total Distance / Total Time = 120 / 3
 
-\[
-=
-\frac{120}{3}
-\]
-
-\[
-= 40 \text{ km/h}
-\]
+= 40 km/h
 
 ---
 

@@ -79,7 +79,7 @@ Standardizes customer names, product names, countries, prices, dates, and remove
 
 ---
 
-### 4. Customer Transaction Score Calculation
+### 4. [Customer Transaction Score Calculation](04_transaction_contribution_scoring.sql)
 Calculates weighted customer transaction scores using business-defined rules for BUY and SELL transactions.
 
 **Skills Used**
@@ -89,7 +89,7 @@ Calculates weighted customer transaction scores using business-defined rules for
 
 ---
 
-### 5. Attendance Improvement Analysis
+### 5. [Attendance Improvement Analysis](05_student_attendance_improvement_analysis.sql)
 Identifies students whose attendance percentage improved compared to the previous month.
 
 **Skills Used**
@@ -99,7 +99,7 @@ Identifies students whose attendance percentage improved compared to the previou
 
 ---
 
-### 6. Hierarchy Reporting
+### 6. [Hierarchy Reporting](06_hierarchical_reporting_analysis.sql)
 Generates ruler-subordinate summaries and concatenated descendant lists.
 
 **Skills Used**
@@ -109,7 +109,7 @@ Generates ruler-subordinate summaries and concatenated descendant lists.
 
 ---
 
-### 7. Team Eligibility Analysis
+### 7. [Team Eligibility Analysis](07_player_team_eligibility_analysis.sql)
 Determines which players are eligible to join teams based on historical win-loss performance.
 
 **Skills Used**
@@ -119,7 +119,7 @@ Determines which players are eligible to join teams based on historical win-loss
 
 ---
 
-### 8. Ratio & Age Problem
+### 8. [Ratio & Age Problem](08_quantitative_aptitude_ratio_problem.md)
 Mathematical reasoning problem involving ratios and age calculations.
 
 **Skills Demonstrated**
@@ -128,7 +128,7 @@ Mathematical reasoning problem involving ratios and age calculations.
 
 ---
 
-### 9. Average Speed Calculation
+### 9. [Average Speed Calculation](09_average_speed_journey_problem.md)
 Calculates average speed across multiple travel segments.
 
 **Skills Demonstrated**
@@ -137,7 +137,7 @@ Calculates average speed across multiple travel segments.
 
 ---
 
-### 10. Boat & Stream Problem
+### 10. [Boat & Stream Problem](10_boats_and_streams_analysis.md)
 Solves a classic algebraic problem involving upstream and downstream travel speeds.
 
 **Skills Demonstrated**
@@ -146,7 +146,7 @@ Solves a classic algebraic problem involving upstream and downstream travel spee
 
 ---
 
-### 11. Suspicious Transaction Sequence Detection
+### 11. [Suspicious Transaction Sequence Detection](11_suspicious_transaction_sequence_detection.sql)
 Identifies transaction clusters where the same sender performs multiple transactions within a 60-minute window exceeding a specified threshold amount.
 
 **Skills Used**
@@ -158,7 +158,7 @@ Identifies transaction clusters where the same sender performs multiple transact
 
 ---
 
-### 12. Event Leaderboard Ranking
+### 12. [Event Leaderboard Ranking](12_event_leaderboard_ranking_and_winner_identification.sql)
 Ranks participants by their best event score and returns first, second, and third place winners while handling ties.
 
 **Skills Used**
@@ -185,14 +185,8 @@ Through these projects, I demonstrated:
 
 ---
 
-## ⚠️ Note
+> ⚠️ Note
 
-Datasets used in these projects are not included in this repository. The purpose of this repository is to demonstrate SQL proficiency, analytical thinking, and problem-solving capabilities through practical business scenarios.
+> Datasets used in these projects are not included in this repository. The purpose of this repository is to demonstrate SQL proficiency, analytical thinking, and problem-solving capabilities through practical business scenarios.
 
 ---
-
-## 👤 Author
-
-**Arjun | Data Analytics Portfolio**
-
-GitHub: https://github.com/ArjunTheAnalyst

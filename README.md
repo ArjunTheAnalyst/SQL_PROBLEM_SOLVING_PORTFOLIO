@@ -57,7 +57,7 @@ Calculates payout allocation for winning poll participants based on their propor
 
 ---
 
-### 2. Sales Trend Analysis
+### 2. [Sales Trend Analysis](02_sales_trend_analysis.sql)
 Compares current month sales with previous and next month sales while calculating Year-To-Date (YTD) revenue.
 
 **Skills Used**
@@ -68,7 +68,7 @@ Compares current month sales with previous and next month sales while calculatin
 
 ---
 
-### 3. Customer Order Data Cleaning
+### 3. [Customer Order Data Cleaning](03_customer_orders_data_cleaning_and_deduplication.sq)
 Standardizes customer names, product names, countries, prices, dates, and removes duplicate customer records.
 
 **Skills Used**

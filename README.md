@@ -68,7 +68,7 @@ Compares current month sales with previous and next month sales while calculatin
 
 ---
 
-### 3. [Customer Order Data Cleaning](03_customer_orders_data_cleaning_and_deduplication.sq)
+### 3. [Customer Order Data Cleaning](03_customer_orders_data_cleaning_and_deduplication.sql)
 Standardizes customer names, product names, countries, prices, dates, and removes duplicate customer records.
 
 **Skills Used**

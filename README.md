@@ -46,7 +46,7 @@ Each solution is stored in its own SQL file and focuses on solving a specific bu
 
 ## 📂 Project List
 
-### 1. [Poll Winner Payout Distribution]('01_poll_winner_payout_distribution.sql')
+### 1. [Poll Winner Payout Distribution]('01_poll_winner_payout_distribution')
 Calculates payout allocation for winning poll participants based on their proportional contribution to the winning option.
 
 **Skills Used**
